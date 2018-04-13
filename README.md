@@ -1,0 +1,1 @@
+Countries like India doesn't have a good number of Emergency services comparable to its population. In case of multiple accidents at the same location, the place of sending emergency services can be decided according to the crash severity level.
