@@ -1,0 +1,14 @@
+For this project Arduino Nano is used.
+For more information refer Connection.png image.
+
+Force Sensitive Resistor:
+	Pin1 -> Resistor -> Gnd pin
+	Pin1 -> A0 pin
+	Pin2 -> +5V pin
+
+Collision Sensor:
+	Vcc -> +5V Pin
+	Gnd -> Gnd Pin
+	Out -> D7 Pin
+
+After making all the above connections burn the collision_fsr Arduino code into Arduino Nano.
